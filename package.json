@@ -1,0 +1,16 @@
+{
+  "name": "import-docgx-shopify",
+  "version": "1.0.0",
+  "description": "Importer to shopify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "objects-to-csv": "^1.3.6",
+    "slugify": "^1.6.5"
+  }
+}
